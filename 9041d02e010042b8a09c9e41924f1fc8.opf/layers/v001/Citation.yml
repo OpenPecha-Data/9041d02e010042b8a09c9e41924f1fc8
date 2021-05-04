@@ -1,4 +1,14 @@
 id: dfaf2a955e1d4dbb9e8d6f02c5620108
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00003'
+annotations:
+  4e279f3582434529ad75b80c2f7c33ff:
+    span:
+      start: 2638
+      end: 3007
+    is_verse: false
+  c72bc7250ce64726834f46f59011e7d5:
+    span:
+      start: 8035
+      end: 8242
+    is_verse: false
